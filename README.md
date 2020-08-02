@@ -4,7 +4,6 @@ According to the National Earthquake Information Center, there is an average of 
 
 ![Earthquake](https://s3-us-west-1.amazonaws.com/acropolis-wp-content-uploads/2019/02/impact-of-earthquakes-v2.gif)
 [^fn]
-[^fn]: Image/gif taken from https://www.bigrentz.com/blog/earthquake-proof-buildings
 ---
 # Designing earthquake resistant buildings
 Over the past few decades, engineers have introduced new designs and building materials to better equip buildings to withstand earthquakes, a few of which are outlined below:
@@ -36,3 +35,6 @@ Over the past few decades, engineers have introduced new designs and building ma
 
 ##### Selected result - change in the displacement time series due to addition of TMD
 ![Short time response of top floor for TMD only](https://github.com/kavanshah1197/tuned_mass_damper/blob/master/Short%20time%20resp%20with%20tmd.jpg?raw=true)
+
+
+[^fn]: Image/gif taken from https://www.bigrentz.com/blog/earthquake-proof-buildings
