@@ -3,6 +3,7 @@ Throughout history, humans have built impressive structures and cities only for 
 According to the National Earthquake Information Center, there is an average of 20,000 earthquakes each year —16 of them being major disasters. As with the case with most earthquakes, the damage was not caused by the quake itself but by the collapse of buildings with people inside them, making earthquake-proof buildings a must.
 
 ![Earthquake](https://s3-us-west-1.amazonaws.com/acropolis-wp-content-uploads/2019/02/impact-of-earthquakes-v2.gif)
+
 <sup>[1]</sup>
 ---
 # Designing earthquake resistant buildings
@@ -22,6 +23,7 @@ Over the past few decades, engineers have introduced new designs and building ma
 ![Shock absorbers](https://s3-us-west-1.amazonaws.com/acropolis-wp-content-uploads/2019/02/vibration-control-v3.gif)
 
 <sup>[1]</sup>
+
 ---
 # Problem setup and simplifying assumptions
 - A 20-story building is modeled in 2 dimensions, assuming the case where the displacement in the out-of-page direction is negligible compared to the displacement in the in-plane directions. 
